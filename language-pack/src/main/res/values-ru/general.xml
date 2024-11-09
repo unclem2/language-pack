@@ -50,7 +50,7 @@
     <string name="library_importing_several">Найдено %s запакованных карт. Начат импорт...</string>
     <string name="library_skin_importing_several">Найдено %s запакованных скинов. Начат импорт...</string>
     <string name="library_imported">\"%s\" успешно импортирован(а)!</string>
-    <string name="message_loaded_skin">Применен новый скин!</string>
+    <string name="message_loaded_skin">Скин успешно применен!</string>
     <string name="message_error_dir_not_found">Директория не найдена</string>
     <string name="file_integrity_tampered">Проверка целостности файла не удалась. Прерывание игрового процесса.</string>
 
